@@ -13,4 +13,3 @@ RUN /etc/init.d/apache2 restart
 
 #INSTALAR PYTHON:
 RUN apt update
-RUN apt install -y python-pip
